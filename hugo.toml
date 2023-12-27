@@ -1,0 +1,4 @@
+baseURL = 'http://packt/'
+languageCode = 'en-us'
+title = 'packt on web3'
+theme = 'terminalcv'
